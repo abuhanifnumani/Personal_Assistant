@@ -1,16 +1,12 @@
 # Personal_Assistant
 Software created to work as a personal assistant. Through this, anyone can ask for help and it helps just like a regular assistant helps a person. Inspire from Siri, GoogleAssistant.
 <br>
+![2](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/2.png)
+
+<br>
 ![Application UI](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/0.png)
 <br>
 
-### Project Demo:
-![2](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/2.png)
-<br>
-![3](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/3.png)
-![5](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/5.png)
-<br>
-![4](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/4.png)
 
 
 #### User Guidline:
