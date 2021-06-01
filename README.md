@@ -3,7 +3,6 @@ Software created to work as a personal assistant. Through this, anyone can ask f
 <br>
 ![2](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/2.png)
 
-<br>
 ![Application UI](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/0.png)
 <br>
 
