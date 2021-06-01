@@ -5,7 +5,6 @@ Software created to work as a personal assistant. Through this, anyone can ask f
 <br>
 
 ### Project Demo:
-<br>
 ![Login](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/1.png)
 <br>
 ![2](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/2.png)
