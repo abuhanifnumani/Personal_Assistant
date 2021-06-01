@@ -5,13 +5,11 @@ Software created to work as a personal assistant. Through this, anyone can ask f
 <br>
 
 ### Project Demo:
-![Login](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/1.png)
-<br>
+![3](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/3.png)
 ![2](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/2.png)
-<br>
- ![3](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/3.png)
-![4](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/4.png)
 ![5](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/5.png)
+![4](https://github.com/abuhanifnumani/Personal_Assistant/blob/main/4.png)
+
 
 #### User Guidline:
  1. For calculating any Arithmetic Problem , use 'calculate' or 'c' or 'cal' and a '='.
